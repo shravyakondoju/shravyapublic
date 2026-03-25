@@ -743,8 +743,8 @@
                 icon: 'fa-headphones'
             },
             {
-                id: 'footwear',
-                name: 'Footwear',
+                id: 'foot',
+                name: 'Foot',
                 icon: 'fa-shoe-prints'
             },
             {
@@ -792,7 +792,7 @@
                 rating: 4,
                 reviews: 53,
                 img: 'https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=600&q=80',
-                category: 'footwear'
+                category: 'foot'
             },
             {
                 id: 5,
